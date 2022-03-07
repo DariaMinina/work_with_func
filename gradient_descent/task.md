@@ -5,5 +5,5 @@ lead to a local maximum of that function; the procedure is then known as gradien
 
 Our tasks: 
 
-1. Write a program that finds the local minimum of a function of one parameter (one_parameter)
+1. Write a program that finds the local minimum of a function of one parameter [one_parameter](https://github.com/DariaMinina/work_with_func/blob/main/gradient_descent/one_parameter_func.py)
 2. 
